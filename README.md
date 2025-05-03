@@ -1,11 +1,6 @@
 # VM Monitor
 VM Monitor is a terminal-based tool that provides **real-time monitoring of system resources across multiple Linux virtual machines**. Built entirely with shell scripts, it offers a centralized view of CPU, memory, and disk usage with visual indicators and configurable alerts.
 
-<p float="left">
-  <img src="https://velog.velcdn.com/images/antraxmin/post/71d79638-383a-4f97-9970-cefdcaf12e74/image.png" width="30%" />
-  <img src="https://velog.velcdn.com/images/antraxmin/post/4af4fbec-c9c1-47b4-9f1e-d4f2f883a264/image.png" width="58%" />
-</p>
-
 ## Features
 - Monitor multiple VMs from a central location
 - Track CPU, memory, and disk usage with automatic refreshing
